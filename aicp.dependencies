@@ -1,6 +1,6 @@
 [
   {
-    "repository": "Claymore1297/device_htc_msm8974-common",
+    "repository": "AICP/device_htc_msm8974-common",
     "target_path": "device/htc/msm8974-common"
     "branch": "p9.0"
   }
